@@ -41,9 +41,9 @@ plt.scatter(X,Y)
 plt.plot(X,Y_predicted,color='red') 
 plt.show()
 ```
+<img width="723" height="642" alt="WhatsApp Image 2026-04-24 at 2 07 04 PM" src="https://github.com/user-attachments/assets/827be1ab-a861-4e42-92a0-ee77a290f062" />
 
-## Output:
-<img width="762" height="625" alt="Screenshot (71)" src="https://github.com/user-attachments/assets/dfd17201-f86b-47e4-b74a-5610fcd2e04e" />
+
 
 
 
